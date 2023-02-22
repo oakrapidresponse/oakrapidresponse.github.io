@@ -7,7 +7,7 @@ Today, the streets of Oakland allow vehicle traffic to dominate our public space
 ![rr_logo](/images/logo.png){: height="75" }
 {: style="text-align: center;"}
 
-> By calling attention to the terrible consequences of **traffic violence**, while calling for changes we can make for the better, Traffic Violence Rapid Response (TVRR) is contributing to a _safer, more vibrant, and more joyous Oakland_.
+> By calling attention to the terrible consequences of **traffic violence**, while advocating for specific street improvements, Traffic Violence Rapid Response (TVRR) is contributing to a _safer, more vibrant, and more joyous Oakland_.
 
 We’ve already made an impact. And people from across Oakland (and Berkeley too) show up and contribute their time, effort, and love to actions we help organize. **Join us** and show your love for Oakland and all its people by helping keep us all safe.
 
