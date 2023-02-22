@@ -44,7 +44,7 @@ TVRR is actively fighting to address severe deficiencies in roadway design throu
 
 ### OakDOT funding FY23-25
 
-TVRR calls upon the Mayor and Council to invest in true public safety from traffic violence by redirecting $20 million in funds from the Oakland Police Department to the Department of Transportation to staff positions needed for critical street safety infrastructure. Read [the press release](https://drive.google.com/file/d/1YfprvFshzV-GyZLRyvCkl565MKnejUcM/view?usp=sharing) and sign [the petition](https://www.change.org/p/help-get-safer-streets-in-oakland-sign-the-petition-here).
+TVRR calls upon the Mayor and Council to invest in true public safety from traffic violence by redirecting $20 million in funds from the Oakland Police Department to the Department of Transportation needed for critical street safety infrastructure. Read [the press release](https://drive.google.com/file/d/1YfprvFshzV-GyZLRyvCkl565MKnejUcM/view?usp=sharing) and sign [the petition](https://www.change.org/p/help-get-safer-streets-in-oakland-sign-the-petition-here).
 
 ### International Blvd. pedestrian safety
 
