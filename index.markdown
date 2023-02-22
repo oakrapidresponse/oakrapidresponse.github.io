@@ -53,14 +53,21 @@ Read [the press release](https://drive.google.com/file/d/1YfprvFshzV-GyZLRyvCkl5
 
 ### International Blvd. pedestrian safety
 
-The International BRT lanes are unsafe and, frankly, incomplete in their current form. This project, [published here](https://docs.google.com/document/u/1/d/e/2PACX-1vQJ2af5Ym0v-JGOWs1KSdW7F-xLnvl8haxBuNI41vKPMUZHOycIin63Yyd2p-uXxFv0gZVZzsFOHWfz/pub), catalogued the most dangerous patterns of driving and identify focus areas for intervention. As of December 2022, Oakland has [allocated funds](https://twitter.com/RapidRevolt/status/1602398196218462208) to rapidly deploy pedestrian safety interventions along Oakland's deadliest road.
+The International BRT lanes are unsafe and, frankly, incomplete in their current form. This project, [published here](https://docs.google.com/document/u/1/d/e/2PACX-1vQJ2af5Ym0v-JGOWs1KSdW7F-xLnvl8haxBuNI41vKPMUZHOycIin63Yyd2p-uXxFv0gZVZzsFOHWfz/pub), catalogued the most dangerous patterns of driving and identify focus areas for intervention.
+
+![international](/images/international.png){: width="100%" }
+{: style="text-align: center;"}
+
+As of December 2022, Oakland has [allocated funds](https://twitter.com/RapidRevolt/status/1602398196218462208) to rapidly deploy pedestrian safety interventions along Oakland's deadliest road.
 
 ### Oakland Fire Code minimum street widths
 
-Oakland city council is currently reviewing the 2022 California Fire Code, and has a chance to change the fire code to make Oakland safer for pedestrians, cyclists, and drivers. Read our [policy brief](https://docs.google.com/document/d/1Vv4fSy-y_nsI3zeRdalISv9lCO-zr5RffmaY9WEn1qI/), as well as [this Oaklandside article](https://oaklandside.org/2022/12/07/street-safety-advocates-want-narrower-roads-the-fire-department-is-opposed/), for more details.
+Oakland city council is currently reviewing the 2022 California Fire Code, and has a chance to change the fire code to make Oakland safer for pedestrians, cyclists, and drivers.
 
-![groupshot3](/images/groupshot3.png){: width="100%" }
+![streetdiagram](/images/streetdiagram.png){: height="200px" }
 {: style="text-align: center;"}
+
+Read our [policy brief](https://docs.google.com/document/d/1Vv4fSy-y_nsI3zeRdalISv9lCO-zr5RffmaY9WEn1qI/), as well as [this Oaklandside article](https://oaklandside.org/2022/12/07/street-safety-advocates-want-narrower-roads-the-fire-department-is-opposed/), for more details.
 
 ## Keep up with the latest
 
@@ -69,3 +76,6 @@ Follow us on social for up to date alerts on actions as well as the latest on tr
 [Twitter @RapidRev](https://twitter.com/RapidRevolt)
 
 [Instagram @RapidRevoltTeam](https://www.instagram.com/rapidrevoltteam/)
+
+![groupshot3](/images/groupshot3.png){: width="100%" }
+{: style="text-align: center;"}
