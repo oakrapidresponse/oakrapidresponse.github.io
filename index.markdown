@@ -11,7 +11,10 @@ Today, the streets of Oakland allow vehicle traffic to dominate our public space
 
 We’ve already made an impact. And people from across Oakland (and Berkeley too) show up and contribute their time, effort, and love to actions we help organize. **Join us** and show your love for Oakland and all its people by helping keep us all safe.
 
-[Sign up for engagement on vigials, traffic safety actions, and policy initiatives](https://docs.google.com/forms/d/e/1FAIpQLSdLiNFRtqaSvBTcwWtStZZT7sk6ZCLmrvWtkJ2R82usi5IU6A/viewform)
+### [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSdLiNFRtqaSvBTcwWtStZZT7sk6ZCLmrvWtkJ2R82usi5IU6A/viewform)
+
+To join us or follow along with TVRR on vigils, traffic safety actions, and policy initiatives, [add yourself](https://docs.google.com/forms/d/e/1FAIpQLSdLiNFRtqaSvBTcwWtStZZT7sk6ZCLmrvWtkJ2R82usi5IU6A/viewform) to our alerts database.
+
 
 ![groupshot1](/images/groupshot1.png){: width="100%" }
 {: style="text-align: center;"}
@@ -44,6 +47,9 @@ The International BRT lanes are unsafe and, frankly, incomplete in their current
 
 ### [Oakland Fire Code minimum street widths](https://docs.google.com/document/d/1Vv4fSy-y_nsI3zeRdalISv9lCO-zr5RffmaY9WEn1qI/)
 Oakland city council is currently reviewing the 2022 California Fire Code, and has a chance to change the fire code to make Oakland safer for pedestrians, cyclists, and drivers. Read our policy brief, as well as [this Oaklandside article](https://oaklandside.org/2022/12/07/street-safety-advocates-want-narrower-roads-the-fire-department-is-opposed/), for more details.
+
+![groupshot3](/images/groupshot3.png){: width="100%" }
+{: style="text-align: center;"}
 
 ## Keep up with the latest
 
