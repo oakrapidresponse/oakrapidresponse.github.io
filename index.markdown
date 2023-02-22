@@ -42,12 +42,14 @@ February 19, 2023: [100-year old man at Harrison and 19th](https://www.sfgate.co
 
 TVRR is actively fighting to address severe deficiencies in roadway design through vigils (as highlighted in this [newspiece](https://oaklandside.org/2022/10/20/traffic-violence-rapid-response-team-oakland/)) as well as policy changes in the way Oakland approaches roadway design and priortization of traffic modes. A few key projects are listed below.
 
-![groupshot1](/images/petitionposter.png){: height="250px" }
-{: style="text-align: center;"}
-
 ### OakDOT funding FY23-25
 
-TVRR calls upon the Mayor and Council to invest in true public safety from traffic violence by redirecting $20 million in funds from the Oakland Police Department to the Department of Transportation needed for critical street safety infrastructure. Read [the press release](https://drive.google.com/file/d/1YfprvFshzV-GyZLRyvCkl565MKnejUcM/view?usp=sharing) and sign [the petition](https://www.change.org/p/help-get-safer-streets-in-oakland-sign-the-petition-here).
+TVRR calls upon the Mayor and Council to invest in true public safety from traffic violence by redirecting $20 million in funds from the Oakland Police Department to the Department of Transportation needed for critical street safety infrastructure.
+
+![petitionposter](/images/petitionposter.png){: height="250px" }
+{: style="text-align: center;"}
+
+Read [the press release](https://drive.google.com/file/d/1YfprvFshzV-GyZLRyvCkl565MKnejUcM/view?usp=sharing) and sign [the petition](https://www.change.org/p/help-get-safer-streets-in-oakland-sign-the-petition-here).
 
 ### International Blvd. pedestrian safety
 
