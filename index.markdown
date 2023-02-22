@@ -42,10 +42,16 @@ February 19, 2023: [100-year old man at Harrison and 19th](https://www.sfgate.co
 
 TVRR is actively fighting to address severe deficiencies in roadway design through vigils (as highlighted in this [newspiece](https://oaklandside.org/2022/10/20/traffic-violence-rapid-response-team-oakland/)) as well as policy changes in the way Oakland approaches roadway design and priortization of traffic modes. A few key projects are listed below.
 
-### [International Blvd. pedestrian safety](https://docs.google.com/document/u/1/d/e/2PACX-1vQJ2af5Ym0v-JGOWs1KSdW7F-xLnvl8haxBuNI41vKPMUZHOycIin63Yyd2p-uXxFv0gZVZzsFOHWfz/pub)
-The International BRT lanes are unsafe and, frankly, incomplete in their current form. This project seeks to catalogue the most dangerous patterns of driving and identify focus areas for intervention. As of December 2022, Oakland has [allocated funds](https://twitter.com/RapidRevolt/status/1602398196218462208) to rapidly deploy pedestrian safety interventions along Oakland's deadliest road.
+### OakDOT funding FY23-25
+
+TVRR calls upon the Mayor and Council to invest in true public safety from traffic violence by redirecting $20 million in funds from the Oakland Police Department to the Department of Transportation to staff positions needed for critical street safety infrastructure. Read [the press release](https://drive.google.com/file/d/1YfprvFshzV-GyZLRyvCkl565MKnejUcM/view?usp=sharing) and sign [the petition](https://www.change.org/p/help-get-safer-streets-in-oakland-sign-the-petition-here).
+
+### International Blvd. pedestrian safety
+
+The International BRT lanes are unsafe and, frankly, incomplete in their current form. This project, [published here](https://docs.google.com/document/u/1/d/e/2PACX-1vQJ2af5Ym0v-JGOWs1KSdW7F-xLnvl8haxBuNI41vKPMUZHOycIin63Yyd2p-uXxFv0gZVZzsFOHWfz/pub), catalogued the most dangerous patterns of driving and identify focus areas for intervention. As of December 2022, Oakland has [allocated funds](https://twitter.com/RapidRevolt/status/1602398196218462208) to rapidly deploy pedestrian safety interventions along Oakland's deadliest road.
 
 ### [Oakland Fire Code minimum street widths](https://docs.google.com/document/d/1Vv4fSy-y_nsI3zeRdalISv9lCO-zr5RffmaY9WEn1qI/)
+
 Oakland city council is currently reviewing the 2022 California Fire Code, and has a chance to change the fire code to make Oakland safer for pedestrians, cyclists, and drivers. Read our [policy brief](https://docs.google.com/document/d/1Vv4fSy-y_nsI3zeRdalISv9lCO-zr5RffmaY9WEn1qI/), as well as [this Oaklandside article](https://oaklandside.org/2022/12/07/street-safety-advocates-want-narrower-roads-the-fire-department-is-opposed/), for more details.
 
 ![groupshot3](/images/groupshot3.png){: width="100%" }
