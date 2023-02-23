@@ -2,18 +2,14 @@
 layout: default
 ---
 
-Today, the streets of Oakland allow vehicle traffic to dominate our public space, enabling dangerous driving. We are working to change this.
+Today, the streets of Oakland allow vehicle traffic to dominate our public space, enabling dangerous driving. **We are working to change this.**
 
 ![rr_logo](/images/logo.png){: height="75" }
 {: style="text-align: center;"}
 
-> By calling attention to the terrible consequences of **traffic violence**, while advocating for specific street improvements, Traffic Violence Rapid Response (TVRR) is contributing to a _safer, more vibrant, and more joyous Oakland_.
+> By calling attention to the terrible consequences of traffic violence, while advocating for specific street improvements, Traffic Violence Rapid Response (TVRR) is contributing to a _safer, more vibrant, and more joyous Oakland_.
 
-We’ve already made an impact. And people from across Oakland (and Berkeley too) show up and contribute their time, effort, and love to actions we help organize. **Join us** and show your love for Oakland and all its people by helping keep us all safe.
-
-### [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSdLiNFRtqaSvBTcwWtStZZT7sk6ZCLmrvWtkJ2R82usi5IU6A/viewform)
-
-To join us or follow along with TVRR on vigils, traffic safety actions, and policy initiatives, [add yourself](https://docs.google.com/forms/d/e/1FAIpQLSdLiNFRtqaSvBTcwWtStZZT7sk6ZCLmrvWtkJ2R82usi5IU6A/viewform) to our alerts database.
+We’ve already made an impact. And people from across Oakland show up and contribute their time, effort, and love to actions we help organize. [**Join us**]((https://docs.google.com/forms/d/e/1FAIpQLSdLiNFRtqaSvBTcwWtStZZT7sk6ZCLmrvWtkJ2R82usi5IU6A/viewform)) and show your love for Oakland and all its people by helping keep us all safe.
 
 
 ![groupshot1](/images/groupshot1.png){: width="100%" }
