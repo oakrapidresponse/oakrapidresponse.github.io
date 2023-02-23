@@ -4,20 +4,22 @@ layout: default
 
 <!-- HTML !-->
 
-<p>
-	<center><a href="https://www.change.org/p/help-get-safer-streets-in-oakland-sign-the-petition-here">
-		<button class="button-53" role="button">Sign the petition!</button>
-	</a></center>
-</p>
+<a href="https://www.change.org/p/help-get-safer-streets-in-oakland-sign-the-petition-here">
+	<center><button class="button-53" role="button">Sign the petition!</button></center>
+</a>
 
-Today, the streets of Oakland allow vehicle traffic to dominate our public space, enabling dangerous driving. **We are working to change this.**
-
-> By calling attention to the terrible consequences of traffic violence, while advocating for specific street improvements, Traffic Violence Rapid Response (TVRR) is contributing to a _safer, more vibrant, and more joyous Oakland_.
+Today, the streets of Oakland allow vehicle traffic to dominate our public space, enabling dangerous driving. Traffic Violence Rapid Response (TVRR) are working to change this.
 
 ![rr_logo](/images/logo.png){: height="75" }
 {: style="text-align: center;"}
 
-We’ve already made an impact. Neighbors from across Oakland and beyond have contributed their time, effort, and love to actions we help organize. [**Join us**]((https://docs.google.com/forms/d/e/1FAIpQLSdLiNFRtqaSvBTcwWtStZZT7sk6ZCLmrvWtkJ2R82usi5IU6A/viewform)) and show your love for Oakland and all its people by helping keep us all safe.
+> By calling attention to the terrible consequences of traffic violence while advocating for specific street improvements, TVRR contributes to a _safer, more vibrant, and more joyous Oakland_.
+
+We’ve already made an impact. Neighbors from across Oakland and beyond have contributed their time, effort, and love to actions we help organize.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdLiNFRtqaSvBTcwWtStZZT7sk6ZCLmrvWtkJ2R82usi5IU6A/viewform">
+	<center><button class="button-53" role="button">Join us!</button></center>
+</a>
 
 ![groupshot1](/images/groupshot1.png){: width="100%" }
 {: style="text-align: center;"}
@@ -40,7 +42,7 @@ January 26th, 2023: 46-year old man killed in a [hit & run on High St. at the 58
 ![groupshot2](/images/groupshot2.png){: width="100%" }
 {: style="text-align: center;"}
 
-# TVRR projects
+# Projects
 
 TVRR is actively fighting to address severe deficiencies in roadway design through vigils (as highlighted in this [newspiece](https://oaklandside.org/2022/10/20/traffic-violence-rapid-response-team-oakland/)) as well as policy changes in the way Oakland approaches roadway design and priortization of traffic modes. A few key projects are listed below.
 
