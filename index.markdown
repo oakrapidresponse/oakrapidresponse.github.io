@@ -36,7 +36,7 @@ January 26th, 2023: 46-year old man killed in a [hit & run on High St. at the 58
 
 ## 2022
 
-[Oaklandside article](https://oaklandside.org/2023/01/18/35-oakland-lives-lost-traffic-collisions-2022/) recognizing all **35** lost of traffic violence on the streets of Oakland in 2022.
+[Oaklandside article](https://oaklandside.org/2023/01/18/35-oakland-lives-lost-traffic-collisions-2022/) recognizing all **35** lost to traffic violence on the streets of Oakland in 2022.
 
 
 ![groupshot2](/images/groupshot2.png){: width="100%" }
