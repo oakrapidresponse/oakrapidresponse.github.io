@@ -2,15 +2,22 @@
 layout: default
 ---
 
+<!-- HTML !-->
+
+<p>
+	<center><a href="https://www.change.org/p/help-get-safer-streets-in-oakland-sign-the-petition-here">
+		<button class="button-53" role="button">Sign the petition!</button>
+	</a></center>
+</p>
+
 Today, the streets of Oakland allow vehicle traffic to dominate our public space, enabling dangerous driving. **We are working to change this.**
+
+> By calling attention to the terrible consequences of traffic violence, while advocating for specific street improvements, Traffic Violence Rapid Response (TVRR) is contributing to a _safer, more vibrant, and more joyous Oakland_.
 
 ![rr_logo](/images/logo.png){: height="75" }
 {: style="text-align: center;"}
 
-> By calling attention to the terrible consequences of traffic violence, while advocating for specific street improvements, Traffic Violence Rapid Response (TVRR) is contributing to a _safer, more vibrant, and more joyous Oakland_.
-
 We’ve already made an impact. Neighbors from across Oakland and beyond have contributed their time, effort, and love to actions we help organize. [**Join us**]((https://docs.google.com/forms/d/e/1FAIpQLSdLiNFRtqaSvBTcwWtStZZT7sk6ZCLmrvWtkJ2R82usi5IU6A/viewform)) and show your love for Oakland and all its people by helping keep us all safe.
-
 
 ![groupshot1](/images/groupshot1.png){: width="100%" }
 {: style="text-align: center;"}
@@ -19,12 +26,11 @@ We’ve already made an impact. Neighbors from across Oakland and beyond have co
 
 ## 2023
 
-January 26th, 2023: 46-year old man killed in a [hit & run on High St. at the 580 westbound onramp](https://sfba.social/@RapidResponseTeam/109901741644706556)
+February 19, 2023: [100-year old man at Harrison and 19th](https://www.sfgate.com/bayarea/article/fatal-hit-and-run-oakland-17797281.php)
 
 February 15, 2023: Neighbor killed at 68th & Bancroft by [eastbound car speeding in bike lane](https://twitter.com/RapidRevolt/status/1627896835951177729)
 
-February 19, 2023: [100-year old man at Harrison and 19th](https://www.sfgate.com/bayarea/article/fatal-hit-and-run-oakland-17797281.php)
-
+January 26th, 2023: 46-year old man killed in a [hit & run on High St. at the 580 westbound onramp](https://sfba.social/@RapidResponseTeam/109901741644706556)
 
 ## 2022
 
