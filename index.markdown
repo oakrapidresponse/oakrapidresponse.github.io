@@ -26,6 +26,12 @@ We’ve already made an impact. Neighbors from across Oakland and beyond have co
 
 # Fatalities
 
+Oakland's streets are in crisis. Virtually every major road in Oakland is buckling under the weight of numerous, and rapidly increasing, severe injuries and fatalities. Explore the map below to see the sheer scale of the crisis or follow along below as TVRR seeks to catalogue every new tragedy as well as hold vigils to ensure that all get the respect and solemn aknowledgement they deserve.
+
+<iframe width="100%" height="450" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Oakland-for-Dan-Kalb-copy-CsQwHGzPSV6xw32k9CLRNVC?lat=37.8&lon=-122.2&zoom=12"></iframe>
+
+Map: Pedestrian fatalities and serious injuries from car crashes beteen 2015 and 2020.
+
 ## 2023
 
 February 19, 2023: [100-year old man at Harrison and 19th](https://www.sfgate.com/bayarea/article/fatal-hit-and-run-oakland-17797281.php)
