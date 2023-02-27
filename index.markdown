@@ -30,7 +30,7 @@ Oakland's streets are in crisis. Virtually every major road in Oakland is buckli
 
 <iframe width="100%" height="450" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Oakland-for-Dan-Kalb-copy-CsQwHGzPSV6xw32k9CLRNVC?lat=37.8&lon=-122.2&zoom=12"></iframe>
 
-Map: Pedestrian fatalities and serious injuries from car crashes beteen 2015 and 2020.
+Above: Map of all injuries and fatalities where the victim was ped or bike from 2015-2020 in TIMS (thus, an incomplete dataset).
 
 ## 2023
 
