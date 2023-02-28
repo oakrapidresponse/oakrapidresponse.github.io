@@ -63,7 +63,14 @@ Read [the press release](https://drive.google.com/file/d/1YfprvFshzV-GyZLRyvCkl5
 
 ### International Blvd. pedestrian safety
 
-The International BRT lanes are unsafe and, frankly, incomplete in their current form. This project, [published here](https://docs.google.com/document/u/1/d/e/2PACX-1vQJ2af5Ym0v-JGOWs1KSdW7F-xLnvl8haxBuNI41vKPMUZHOycIin63Yyd2p-uXxFv0gZVZzsFOHWfz/pub), catalogued the most dangerous patterns of driving and identify focus areas for intervention. As of December 2022, Oakland has [allocated funds](https://twitter.com/RapidRevolt/status/1602398196218462208) to rapidly deploy pedestrian safety interventions along Oakland's deadliest road.
+<a name="international_project"></a>
+
+The International BRT lanes are unsafe and, frankly, incomplete in their current form. This project, [published here](https://docs.google.com/document/u/1/d/e/2PACX-1vQJ2af5Ym0v-JGOWs1KSdW7F-xLnvl8haxBuNI41vKPMUZHOycIin63Yyd2p-uXxFv0gZVZzsFOHWfz/pub), catalogued the most dangerous patterns of driving and identify focus areas for intervention.
+
+![international](/images/international.png){: width="100%" }
+{: style="text-align: center"}
+
+As of December 2022, Oakland has [allocated funds](https://twitter.com/RapidRevolt/status/1602398196218462208) to rapidly deploy pedestrian safety interventions along Oakland's deadliest road.
 
 ### Oakland Fire Code minimum street widths
 
