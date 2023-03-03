@@ -36,7 +36,7 @@ Above: Map of all injuries and fatalities where the victim was ped or bike from 
 
 February 19, 2023: [100-year old man at Harrison and 19th](https://www.sfgate.com/bayarea/article/fatal-hit-and-run-oakland-17797281.php)
 
-February 15, 2023: Neighbor killed at 68th & Bancroft by [eastbound car speeding in bike lane](https://twitter.com/RapidRevolt/status/1627896835951177729)
+February 15, 2023: Neighbor seriously injuried at 68th & Bancroft by [eastbound car speeding in bike lane](https://twitter.com/RapidRevolt/status/1627896835951177729)
 
 January 26th, 2023: 46-year old man killed in a [hit & run on High St. at the 580 westbound onramp](https://sfba.social/@RapidResponseTeam/109901741644706556)
 
@@ -83,6 +83,8 @@ Oakland city council is currently reviewing the 2022 California Fire Code, and h
 
 Follow us on social for up to date alerts on actions as well as the latest on traffic safety efforts in Oakland.
 
-[Twitter @RapidRev](https://twitter.com/RapidRevolt)
+[Mastodon @RapidResponseTeam](https://sfba.social/@RapidResponseTeam)
+
+[Twitter @RapidRevolt](https://twitter.com/RapidRevolt)
 
 [Instagram @RapidRevoltTeam](https://www.instagram.com/rapidrevoltteam/)
