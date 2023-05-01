@@ -4,10 +4,6 @@ layout: default
 
 <!-- HTML !-->
 
-<a href="https://www.change.org/p/help-get-safer-streets-in-oakland-sign-the-petition-here">
-	<center><button class="button-53" role="button">Sign the petition!</button></center>
-</a>
-
 Today, the streets of Oakland allow vehicle traffic to dominate our public space, enabling dangerous driving. Traffic Violence Rapid Response (TVRR) are working to change this.
 
 ![rr_logo](/images/logo.png){: height="75" }
@@ -59,7 +55,7 @@ TVRR calls upon the Mayor and Council to invest in true public safety from traff
 ![petitionposter](/images/petitionposter.png){: height="250px" }
 {: style="text-align: center;"}
 
-Read [the press release](https://drive.google.com/file/d/1YfprvFshzV-GyZLRyvCkl565MKnejUcM/view?usp=sharing) and sign [the petition](https://www.change.org/p/help-get-safer-streets-in-oakland-sign-the-petition-here).
+Read [the press release](https://drive.google.com/file/d/1YfprvFshzV-GyZLRyvCkl565MKnejUcM/view?usp=sharing) and sign [the petition](https://www.change.org/p/help-get-safer-streets-in-oakland-sign-the-petition-here). The official petition was delivered to City Council on April 19, 2023. Read more about the hand-delivery event to City Council President Nikki Bas in [this Oaklandside article](https://oaklandside.org/2023/04/19/traffic-safety-advocates-deliver-oakland-budget-petition-to-city-council/). Read the coalition letter, co-signed by 23 organizations ranging from the California Nurses Association to the Alameda County Democratic Party and the Original Scraper Bike Team, [here](https://docs.google.com/document/d/e/2PACX-1vR3lrQ7X4yqmtlD_cPZ7WPMg3BIiaiv-gjvU9g_sxMrxFYAK7wdExRNRxha0JlcRPjIdJt8__KX4e1f/pub).
 
 ### International Blvd. pedestrian safety
 
