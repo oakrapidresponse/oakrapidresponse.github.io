@@ -8,7 +8,7 @@ layout: default
 
 ## 2020-2022 TEMPO Bus Rapid Transit Lane
 
-### Impact Analsysis on General Traffic Speeds
+### Impact Analysis on General Traffic Speeds
 
 ![header](/images/international_01.png){: width="100%" }
 
