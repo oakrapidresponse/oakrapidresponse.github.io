@@ -60,7 +60,7 @@ TVRR is actively fighting to address severe deficiencies in roadway design throu
 
 The International BRT lanes are unsafe and, frankly, incomplete in their current form. This project, [published here](https://docs.google.com/document/u/1/d/e/2PACX-1vQJ2af5Ym0v-JGOWs1KSdW7F-xLnvl8haxBuNI41vKPMUZHOycIin63Yyd2p-uXxFv0gZVZzsFOHWfz/pub), catalogued the most dangerous patterns of driving and identify focus areas for intervention.
 
-![international](/images/international.png){: width="100%" }
+![international](/images/international_01.png){: width="100%" }
 {: style="text-align: center"}
 
 A subsequent [report, published in June 2023](https://docs.google.com/document/u/4/d/e/2PACX-1vSierStnxSBjteHzogA_S59yjVIFjxJzmj2VFeYXmUE3hIZAmhpSho4p-RGeL8qiz3ga8ywLGjFqCAi/pub), analyzed over 7 million vehicle traces along the International AC Transit TEMPO BRT corridor to identify the road reconfiguration's impact on general traffic speeds.
