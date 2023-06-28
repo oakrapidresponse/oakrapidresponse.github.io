@@ -20,7 +20,9 @@
 
         <header style="padding: 50px 30px; background-image: url('/images/background.png'); background-size: cover;">
           <h1>
-            {{ page.title | default: site.title | default: site.github.repository_name }}
+            <a href="/" style="color: #303030">
+              {{ page.title | default: site.title | default: site.github.repository_name }}
+            </a>
           </h1>
 
           <hr>
