@@ -63,7 +63,7 @@ The magnitude of the increase across the entire corridor length becomes clear wh
 The lack of a significant difference between all-day speeds and PM peak hour speeds indicates we can use our all-day figures for this analysis without requiring a second peak-hour specific analysis. Given the distribution of pedestrian fatalities and severe injury, which tend to occur throughout the day and into the evening periods, our crash data would appear to support this conclusion as well.
 
 [![fatality_by_speed](/images/international_05.png)](/images/international_05.png){: width="100%" }
-*Plot of fatality rates by speed from “Relationship between Speed and Risk of Fatal Injury: Pedestrians and Car Occupants” (D. C. Richards. 2010, p13).*
+*Above: Plot of fatality rates by speed from “Relationship between Speed and Risk of Fatal Injury: Pedestrians and Car Occupants” (D. C. Richards. 2010, p13).*
 {: style="font-size: 80%" }
 
 Given the magnitude of chance we observed along the corridor, we next want to review the degree of change. That is, what was the proportional change in speeds in 2022 relative to 2020? Large changes in speeds up from relatively lower speeds will be amplified - highlighting areas where speeds were low and thus closer to safe speeds in cases of pedestrian impact (but now are no longer so). NACTO, as well as broader research, regularly cites Department for Transport: London’s Transport Research Lab work that highlights 20 MPH as the threshold at which vehicle speeds become far more likely to be fatal with every incremental increase in speed.
