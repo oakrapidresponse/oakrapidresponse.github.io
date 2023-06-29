@@ -12,7 +12,7 @@ layout: default
 
 [![header](/images/international_01.png)](/images/international_01.png){: width="100%" }
 
-A project of [Traffic Violence Rapid Response](/).
+A project of [Traffic Violence Rapid Response](/)
 
 ## Introduction
 
