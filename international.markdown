@@ -6,7 +6,7 @@ layout: default
 
 # International Speeds Report
 
-## 2020-2022 TEMPO Bus Rapid Transit Lane
+## 2020-2022 TEMPO Bus Lane
 
 ### Impact Analysis on General Traffic Speeds
 
