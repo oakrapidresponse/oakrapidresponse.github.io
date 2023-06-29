@@ -126,8 +126,8 @@ Based on this data analysis, we request that AC Transit:
    - Speed is a second order influencer of mode choice and should come after focusing on pedestrian safety (both egress and ingress as well as last leg foot journey to destinations) and service volume in highly activated land use contexts.
 
 [![cdmx_buslane](/images/international_13.png)](/images/international_13.png){: width="100%" }
-
 *Above: Standard linear curb stop installation in Mexico City to separate BRT right of way from general traffic lanes.*
+{: style="font-size: 80%" }
 
 
 ## References
