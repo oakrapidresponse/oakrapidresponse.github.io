@@ -76,8 +76,9 @@ Oakland city council is currently reviewing the 2022 California Fire Code, and h
 
 TVRR calls upon the Mayor and Council to invest in true public safety from traffic violence by redirecting $20 million in funds from the Oakland Police Department to the Department of Transportation needed for critical street safety infrastructure.
 
-![petitionposter](/images/petitionposter.png){: height="250px" }
-{: style="text-align: center;"}
+[![petitiondelivery](/images/petitiondelivery.png)](https://oaklandside.org/2023/04/19/traffic-safety-advocates-deliver-oakland-budget-petition-to-city-council/){: width="100%" }
+*Above: Delivery of traffic safety budget petition to Council President Bas on April 19, 2023.*
+{: style="font-size: 80%" }
 
 Read [the press release](https://drive.google.com/file/d/1YfprvFshzV-GyZLRyvCkl565MKnejUcM/view?usp=sharing) and sign [the petition](https://www.change.org/p/help-get-safer-streets-in-oakland-sign-the-petition-here). The official petition was delivered to City Council on April 19, 2023. Read more about the hand-delivery event to City Council President Nikki Bas in [this Oaklandside article](https://oaklandside.org/2023/04/19/traffic-safety-advocates-deliver-oakland-budget-petition-to-city-council/). Read the coalition letter, co-signed by 23 organizations ranging from the California Nurses Association to the Alameda County Democratic Party and the Original Scraper Bike Team, [here](https://docs.google.com/document/d/e/2PACX-1vR3lrQ7X4yqmtlD_cPZ7WPMg3BIiaiv-gjvU9g_sxMrxFYAK7wdExRNRxha0JlcRPjIdJt8__KX4e1f/pub).
 
