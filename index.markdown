@@ -32,7 +32,7 @@ Above: Map of all injuries and fatalities where the victim was ped or bike from 
 
 June 16, 2023: [73-year old grandmother, Santu Maya, at Foothill Boulevard and Vicksburg Avenue](https://www.ktvu.com/news/surveillance-video-shows-car-striking-pedestrian-in-fatal-oakland-hit-and-run-crash)
 
-June 3, 2023: International and 91st: A pedestrian was killed when two vehicles traveling eastbound on International Blvd collided with each other. This collision caused one of the vehicles to collide into the rear of a parked car. The impact pushed the parked car into the pedestrian who was standing on the sidewalk. The impacted killed the pedestrian who was a passenger of the parked vehicle that was struck. TVRR is continuing to seek more information on the victim.
+June 3, 2023: International and 91st: A pedestrian was killed when two vehicles traveling eastbound on International Blvd collided. This caused one of the vehicles to hit the rear of a third, parked car. The impact pushed the parked car into a pedestrian standing on the sidewalk. This imapct killed the pedestrian who was a passenger of the parked vehicle that was struck. TVRR is seeking more information on the victim.
 
 May 17, 2023: [50-year-old Carlos Smith, bicycling at 98th and D Street](https://www.ktvu.com/news/east-bay-family-of-hit-and-run-victim-asks-for-help-in-getting-justice.amp)
 
