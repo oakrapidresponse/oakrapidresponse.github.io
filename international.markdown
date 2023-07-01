@@ -50,7 +50,7 @@ A final technical note regarding the two time periods: The 2020 data is primaril
 
 The section of route analyzed in this report runs along the AC Transit TEMPO route East Oakland alignment beginning at the 1st & International intersections by Lake Merritt through to the San Leandro border. Analysis results demonstrate that virtually the entire corridor saw a significant increase in speeds. In fact, the average speed change (weighted by segment distance) along the total corridor was a 20.5% increase.
 
-[![max_speeds_85_pct](/images/]t](/images/international_03.png){: width="100%" }
+[![max_speeds_85_pct](/images/international_03.png)](/images/international_03.png){: width="100%" }
 *Above: Red line indicates the maximum observed 85th percentile (P85) speed along each segment of the TEMPO alignment (International Blvd.) in 2022 when reviewing speeds from both directions (eastbound and westbound). The blue line indicates the same value, but for data from the 2020 review period. X-axis labels indicate approximate addresses for each block of International.*
 {: style="font-size: 80%" }
 
@@ -66,7 +66,7 @@ The lack of a significant difference between all-day speeds and PM peak hour spe
 *Above: Risk of pedestrian fatality as a function of vehicle impact speed: "20 is plenty." Source: Wramborg P, A New Approach to a Safe and Sustainable Traffic Planning and Street Design for Urban Areas, Road Safety on Four Continents Conference, Warsaw, 2005.*
 {: style="font-size: 80%" }
 
-Given the magnitude of chance we observed along the corridor, we next want to review the degree of change. That is, what was the proportional change in speeds in 2022 relative to 2020? Large changes in speeds up from relatively lower speeds will be amplified - highlighting areas where speeds were low and thus closer to safe speeds in cases of pedestrian impact (but now are no longer so). NACTO, as well as broader research, regularly cites Department for Transport: London’s Transport Research Lab work that highlights 20 MPH as the threshold at which vehicle speeds become far more likely to be fatal with every incremental increase in speed.
+Having measured the absolute change, we turn next to a review of proportional change. That is, what was the proportional change in speeds in 2022 relative to 2020? Large changes in speeds up from relatively lower speeds will be amplified - highlighting areas where speeds were low and thus closer to safe speeds in cases of pedestrian impact (but now are no longer so). NACTO, as well as broader research, regularly cites Department for Transport: London’s Transport Research Lab work that highlights 20 MPH as the threshold at which vehicle speeds become far more likely to be fatal with every incremental increase in speed.
 
 
 [![bar_chart_pct_under](/images/international_06.png)](/images/international_06.png){: width="100%" }
@@ -109,7 +109,7 @@ Given that the analysis period falls far enough outside the immediate effects of
 
 
 [![eir_render](/images/international_12.png)](/images/international_12.png){: width="100%" }
-*Above: In the approved environmental impact report (EIR), raised concrete curb separators between the bus lane and the general traffic lane were specified, when they were not otherwise separated by other street elements.*
+*Above: In the approved environ_03mental impact report (EIR), raised concrete curb separators between the bus lane and the general traffic lane were specified, when they were not otherwise separated by other street elements.*
 {: style="font-size: 80%" }
 
 The International BRT lane installation is not only incomplete with respect to how it was originally proposed to the community, but it also lacks the lane separation that is standard on any international-grade BRT project. This physical separation, typically achieved with concrete separators such as parking curbs arranged linearly, deters private vehicle misuse and speeding through the bus lane. It is worth noting that this is not only an international standard, but has become a recommendation of NACTO as well, via their APTA Standards Development Program. Furthermore, the physical separation element was included in the approved EIR and was only removed after the EIR process had concluded. Thus, the installed design contradicts the design approved by council and reviewed via public engagement.
