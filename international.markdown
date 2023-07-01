@@ -66,7 +66,7 @@ The lack of a significant difference between all-day speeds and PM peak hour spe
 *Above: Risk of pedestrian fatality as a function of vehicle impact speed: "20 is plenty." Source: Wramborg P, A New Approach to a Safe and Sustainable Traffic Planning and Street Design for Urban Areas, Road Safety on Four Continents Conference, Warsaw, 2005.*
 {: style="font-size: 80%" }
 
-Having measured the absolute change, we turn next to a review of proportional change. That is, what was the proportional change in speeds in 2022 relative to 2020? Large changes in speeds up from relatively lower speeds will be amplified - highlighting areas where speeds were low and thus closer to safe speeds in cases of pedestrian impact (but now are no longer so). NACTO, as well as broader research, regularly cites Department for Transport: London’s Transport Research Lab work that highlights 20 MPH as the threshold at which vehicle speeds become far more likely to be fatal with every incremental increase in speed.
+Having measured the absolute change, we turn next to a review of relative change. That is, what was the proportional change in speeds in 2022 relative to 2020? Large changes in speeds up from relatively lower speeds will be amplified - highlighting areas where speeds were low and thus closer to safe speeds in cases of pedestrian impact (but now are no longer so). NACTO, as well as broader research, regularly cites Department for Transport: London’s Transport Research Lab work that highlights 20 MPH as the threshold at which vehicle speeds become far more likely to be fatal with every incremental increase in speed.
 
 
 [![bar_chart_pct_under](/images/international_06.png)](/images/international_06.png){: width="100%" }
