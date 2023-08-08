@@ -30,9 +30,13 @@ Above: Map of all injuries and fatalities where the victim was ped or bike from 
 
 ## 2023
 
+July 12, 2023: [62-year old Ricky Bryant, at 29th and International](https://www.eastbaytimes.com/2023/07/19/bicyclist-killed-in-oakland-hit-and-run-is-identified/)
+
+July 4, 2023: [20-year old Oprah Cooper, at 85th Avenue and San Leandro Street](https://www.ktvu.com/news/parents-of-20-year-old-woman-killed-by-hit-and-run-driver-while-celebrating-july-4th-demand-justice)
+
 June 16, 2023: [73-year old grandmother, Santu Maya, at Foothill Boulevard and Vicksburg Avenue](https://www.ktvu.com/news/surveillance-video-shows-car-striking-pedestrian-in-fatal-oakland-hit-and-run-crash)
 
-June 3, 2023: International and 91st: A pedestrian was killed when two vehicles traveling eastbound on International Blvd collided. This caused one of the vehicles to hit the rear of a third, parked car. The impact pushed the parked car into a pedestrian standing on the sidewalk. This imapct killed the pedestrian who was a passenger of the parked vehicle that was struck. TVRR is seeking more information on the victim.
+June 3, 2023: [64-year old Joseph Morehouse, at International and 91st](https://oaklandside.org/2023/06/30/traffic-collision-death-international-boulevard-vigil-bus-rapid-transit/): A pedestrian was killed when two vehicles traveling eastbound on International Blvd collided. This caused one of the vehicles to hit the rear of a third, parked car. The impact pushed the parked car into a pedestrian standing on the sidewalk. This imapct killed the pedestrian who was a passenger of the parked vehicle that was struck. TVRR is seeking more information on the victim.
 
 May 17, 2023: [50-year-old Carlos Smith, bicycling at 98th and D Street](https://www.ktvu.com/news/east-bay-family-of-hit-and-run-victim-asks-for-help-in-getting-justice.amp)
 
