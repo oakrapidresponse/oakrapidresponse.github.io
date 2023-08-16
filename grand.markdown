@@ -117,11 +117,11 @@ First and foremost, the Adam’s Point segment of Grand needs only one vehicle t
 
 ### Pedestrian Safety
 
-Second, Oaklanders need protection when crossing the street, and this means shorter crossing distances, concrete islands in the median, and signal timings that allow our most vulnerable users time enough to cross while they have the light. As people walking become more comfortable, more people are drawn to walk, and the area thrives.
+Second, Oaklanders need protection when crossing the street, and this means shorter crossing distances, concrete islands in the median, and signal timings that allow our most vulnerable users time enough to cross while they have the light. Every signal cycle should include pedestrian passage, and not rely on crosswalk users to find and press the “beg button”.
 
 ### Transit Improvements
 
-Third, improvements as called out in the AC Transit Grand Ave. Rapid Corridors Project plan should be implemented. These include the adjustment and lengthening of bus stops, signal changes, and bus boarding islands that provide safe comfortable bus stops with in-lane boarding so that buses do not need to re-merge with traffic.
+Third, improvements as called out in the [AC Transit Grand Ave. Rapid Corridors Project plan](https://www.actransit.org/rapid-corridors/grand-avenue) should be implemented. These include the adjustment and lengthening of bus stops, signal changes, and bus boarding islands that provide safe comfortable bus stops, and in-lane boarding, so that buses do not need to re-merge with traffic.
 
 ### Bike lanes
 
