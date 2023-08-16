@@ -1,6 +1,6 @@
 ## **Grand Ave Complete Street Report**
 
-![alt_text](/images/grand/01_existing_condition_diagram.png "Existing Conditions on Grand")
+![alt_text](/images/grand/01.png "Existing Conditions on Grand")
 
 ## Summary
 
@@ -33,7 +33,7 @@ Grand is on Oakland’s High Injury Network - the 6% of City streets that are re
 
 > Pedestrian-involved collisions account for about 17% of collisions along the corridor. Figure 18 identifies the Pedestrian Action, what the pedestrian’s action was during the collision. It is important to note that 68% of pedestrian collisions occurred in a marked crosswalk at an intersection, with another 5% occurring in a midblock crosswalk; in total almost three-quarters of pedestrian-involved collisions occur at a marked crosswalk. [...] Bicyclists-involved collisions account for about 21% of all collisions along the corridor.
 
-![alt_text](/images/grand/02_ped_safety.png "Pedestrian injuries on Grand")
+![alt_text](/images/grand/02.png "Pedestrian injuries on Grand")
 
 ### Transit
 
@@ -41,13 +41,13 @@ Grand is served by the local 12 bus with 20-30 minute frequencies and the transb
 
 > On average, there are 950 boardings and alightings per day. Two stops are served by both the 12 and NL; these are two stops with the highest ridership activity. Both of these stops are at Grand Avenue/Perkins Street. The eastbound stop has about 158 boardings and alightings daily and the westbound stop has about 150 daily boardings and alightings. [...] About 60% of these bus trips start or end in the Adams Point area and about one-quarter of them start or end in West Oakland.
 
-![alt_text](/images/grand/03_transit_usage.png "Transit usage on Grand")
+![alt_text](/images/grand/03.png "Transit usage on Grand")
 
 In 2019 the travel time of the 12 and the NL increased during peak commute hours on the Adams Point section by 2 minutes for the trip from Downtown to MacArthur taking 7 minutes in the evening and 5 minutes in the morning. The study did not go into the reasons for this increase which could be due to longer boarding time for more riders, wait time to re-enter travel lane from bus stop, waiting behind car congestion, etc.
 
 > Slowdowns were most pronounced in the peak direction of the Downtown and Adams Point segments with average speeds decreasing 25% in the eastbound direction during the evening peak hours and 7% in the westbound direction during the morning peak hours when compared with the average travel speed during other periods
 
-![alt_text](/images/grand/04_transit_speeds.png "Transit Speeds on Grand")
+![alt_text](/images/grand/04.png "Transit Speeds on Grand")
 
 ### Vehicles
 
@@ -55,7 +55,7 @@ According to the traffic study conducted in 2019, at peak times there was at wor
 
 > Under optimal operating conditions, all studied intersections along the corridor have excess operating capacity as currently configured. Table 8 on pg. 64 shows the results of LOS Analysis. A vehicle queuing analysis was also conducted to measure how far cars back-up while waiting to move through an intersection. [...] All other queues have excess storage space except at the northbound and southbound _approaches at the Telegraph Avenue intersection.
 
-![alt_text](/images/grand/05_vehicle_delay.png "Vehicle delays on Grand")
+![alt_text](/images/grand/05.png "Vehicle delays on Grand")
 
 According to this study about 13% of traffic on Grand is using it as an indirect on-ramp to 580 instead of using a closer highway entrance, with 20% of traffic passing by earlier on-ramps on Grand and 67% of those continuing to the MacArthur on-ramp:
 
@@ -67,13 +67,13 @@ As a part of this study the city gathered feedback from residents who overwhelmi
 
 > Over 1,400 people submitted survey responses and over 500 people provided comments on the interactive webmap. [...] Many cited pedestrian infrastructure, bicycle infrastructure, traffic calming, and greening/ landscaping as priorities for the corridor.
 
-![alt_text](/images/grand/06_survey_results.png "Survey Results")
+![alt_text](/images/grand/06.png "Survey Results")
 
 The city presented 4 options to gather priorities from residents and received overwhelming support for the options with one travel lane each direction and high-quality bike and pedestrian safety infrastructure with a close second of bus-only lanes. There was very little support for the status quo of two vehicle travel lanes each direction.
 
 > The virtual open house drew another 440 participants. Participants ranked “Feels Safe” as the most important corridor goal. Virtual open house participants, regardless of neighborhood, expressed the most favorable responses to the Bicycle/Micromobility Focus (77%) and Activated Median (72%) options.
 
-![alt_text](/images/grand/07_street_design_options.png "Street design options")
+![alt_text](/images/grand/07.png "Street design options")
 
 ### Vision
 
@@ -81,7 +81,7 @@ The resulting recommendation of this study was to implement a plan for Grand tha
 
 > Planning-level cost estimates to implement the Grand Ave Mobility Plan are $118M. The OakDOT two-year Capital Improvement Program budget is about $175M, the bulk of which is spent on repaving Oakland’s streets. As a result, implementation of the Grand Avenue Mobility Plan will likely come in stages and with funding support from federal, state and regional grants. Upcoming repaving projects on West Grand Avenue and Grand Avenue provide opportunities to begin to realize the goals of the Grand Avenue Mobility Plan.
 
-![alt_text](/images/grand/08_grand_vision.png "Vision for Grand")
+![alt_text](/images/grand/08.png "Vision for Grand")
 
 ## OakDOT Paving Project
 
@@ -97,7 +97,7 @@ The separated two-way cycle track currently along the west side of the lake was 
 
 Here is a sample road segment from this design (mottled brown = raised concrete elements): 
 
-![alt_text](/images/grand/09_15_percent_design.png "image_tooltip")
+![alt_text](/images/grand/09.png "image_tooltip")
 
 ### 35% Design
 
@@ -107,7 +107,7 @@ This change means a road design where vehicles would be able maintain speeds of 
 
 The high-quality cycle-track was replaced with a barely functional 4.5 ft one-way protected bike lane on each side that includes the gutter pan, storm drains, vehicle loading zone, and other obstacles. NACTO guidelines for a protected bikeway is a minimum of 5 ft and recommends 6 ft for low usage bikeways and 7ft for high usage to allow for passing.
 
-![alt_text](/images/grand/10_35_percent_design.png "image_tooltip")
+![alt_text](/images/grand/10.png "image_tooltip")
 
 ## Proposal
 
