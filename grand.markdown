@@ -123,6 +123,6 @@ Second, Oaklanders need protection when crossing the street, and this means shor
 
 Third, improvements as called out in the [AC Transit Grand Ave. Rapid Corridors Project plan](https://www.actransit.org/rapid-corridors/grand-avenue) should be implemented. These include the adjustment and lengthening of bus stops, signal changes, and bus boarding islands that provide safe comfortable bus stops, and in-lane boarding, so that buses do not need to re-merge with traffic.
 
-### Bike lanes
+### Concrete-protected Bike lanes
 
 Fourth, the two-way cycle track around the lake should be reinstated along with a full-width continuous protected bike lane on both sides of the street. This is a key amenity for bike commuters, families with children, and people coming to enjoy the lake and area businesses.
