@@ -29,6 +29,7 @@ Oakland's streets are in crisis. Virtually every major road in Oakland is buckli
 Above: Map of all injuries and fatalities where the victim was ped or bike from 2015-2020 in TIMS (thus, an incomplete dataset).
 
 ## 2023
+August 6, 2023: [4-year old Maia Correia, at Lakeshore Avenue and Hanover Avenue](https://oaklandside.org/2023/08/31/child-tragic-death-lakeshore-avenue-lack-of-protected-bike-lanes-oakland/)
 
 July 12, 2023: [62-year old Ricky Bryant, at 29th and International](https://www.eastbaytimes.com/2023/07/19/bicyclist-killed-in-oakland-hit-and-run-is-identified/)
 
