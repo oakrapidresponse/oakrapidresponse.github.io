@@ -31,6 +31,8 @@ Above: Map of all injuries and fatalities where the victim was ped or bike from 
 ## 2023
 August 6, 2023: [4-year old Maia Correia, at Lakeshore Avenue and Hanover Avenue](https://oaklandside.org/2023/08/31/child-tragic-death-lakeshore-avenue-lack-of-protected-bike-lanes-oakland/)
 
+August 2023: A pedestrian was killed crossing 880 (Announced at Oakland BPAC Meeting - 8/17/23)
+
 July 12, 2023: [62-year old Ricky Bryant, at 29th and International](https://www.eastbaytimes.com/2023/07/19/bicyclist-killed-in-oakland-hit-and-run-is-identified/)
 
 July 4, 2023: [20-year old Oprah Cooper, at 85th Avenue and San Leandro Street](https://www.ktvu.com/news/parents-of-20-year-old-woman-killed-by-hit-and-run-driver-while-celebrating-july-4th-demand-justice)
