@@ -29,6 +29,8 @@ Oakland's streets are in crisis. Virtually every major road in Oakland is buckli
 Above: Map of all injuries and fatalities where the victim was ped or bike from 2015-2020 in TIMS (thus, an incomplete dataset).
 
 ## 2023
+September 8, 2023: [Man struck and killed at 9200 block of International](https://www.eastbaytimes.com/2023/09/08/pedestrian-dies-after-being-struck-by-vehicle-in-oakland/?utm_medium=social&utm_source=twitter.com&utm_content=tw-EastBayTimes&utm_campaign=socialflow), roughly 250 feet from a TEMPO BRT station
+
 August 6, 2023: [4-year old Maia Correia, at Lakeshore Avenue and Hanover Avenue](https://oaklandside.org/2023/08/31/child-tragic-death-lakeshore-avenue-lack-of-protected-bike-lanes-oakland/)
 
 August 2023: A pedestrian was killed crossing 880 (Announced at Oakland BPAC Meeting - 8/17/23)
