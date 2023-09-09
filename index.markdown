@@ -11,11 +11,13 @@ Today, the streets of Oakland allow vehicle traffic to dominate our public space
 
 > By calling attention to the terrible consequences of traffic violence while advocating for specific street improvements, TVRR contributes to a _safer, more vibrant, and more joyous Oakland_.
 
-We’ve already made an impact. Neighbors from across Oakland and beyond have contributed their time, effort, and love to actions we help organize.
+Are you a city official? Review our [8 immediate action items](/act) the city can take, today, to dramatically reduce traffic violence on our streets.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdLiNFRtqaSvBTcwWtStZZT7sk6ZCLmrvWtkJ2R82usi5IU6A/viewform">
 	<center><button class="button-53" role="button">Join us!</button></center>
 </a>
+
+We’ve already made an impact. Neighbors from across Oakland and beyond have contributed their time, effort, and love to actions we help organize.
 
 ![groupshot1](/images/groupshot1.png){: width="100%" }
 {: style="text-align: center;"}
