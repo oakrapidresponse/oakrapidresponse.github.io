@@ -26,7 +26,7 @@ We’ve already made an impact. Neighbors from across Oakland and beyond have co
 
 Oakland's streets are in crisis. Virtually every major road in Oakland is buckling under the weight of numerous, and rapidly increasing, severe injuries and fatalities. Explore the map below to see the sheer scale of the crisis or follow along below as TVRR seeks to catalogue every new tragedy as well as hold vigils to ensure that all get the respect and solemn aknowledgement they deserve.
 
-<iframe width="100%" height="450" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Oakland-for-Dan-Kalb-copy-CsQwHGzPSV6xw32k9CLRNVC?lat=37.8&lon=-122.2&zoom=12"></iframe>
+<iframe width="100%" height="450" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Crashes-from-2012-to-2022-LEpCmG6fQyKh1Of2z2OtPA?loc=37.79362,-122.23309,13z"></iframe>
 
 Above: Map of all injuries and fatalities where the victim was ped or bike from 2015-2020 in TIMS (thus, an incomplete dataset).
 
