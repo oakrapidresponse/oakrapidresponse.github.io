@@ -28,7 +28,7 @@ Oakland's streets are in crisis. Virtually every major road in Oakland is buckli
 
 <iframe width="100%" height="450" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Crashes-from-2012-to-2022-LEpCmG6fQyKh1Of2z2OtPA?loc=37.79362,-122.23309,13z"></iframe>
 
-Above: Map of all injuries and fatalities where the victim was ped or bike from 2015-2020 in TIMS (thus, an incomplete dataset).
+Above: Map of all crashes in Oakland from 2012 to 2020 in TIMS (thus, an incomplete dataset).
 
 ## 2023
 September 8, 2023: [Man struck and killed at 9200 block of International](https://www.eastbaytimes.com/2023/09/08/pedestrian-dies-after-being-struck-by-vehicle-in-oakland/?utm_medium=social&utm_source=twitter.com&utm_content=tw-EastBayTimes&utm_campaign=socialflow), roughly 250 feet from a TEMPO BRT station
